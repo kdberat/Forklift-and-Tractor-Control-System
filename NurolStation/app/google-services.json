@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "364319028190",
+    "project_id": "forklift-mission-tracker",
+    "storage_bucket": "forklift-mission-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364319028190:android:332a67b3300b7df71fa34f",
+        "android_client_info": {
+          "package_name": "com.example.nurolfmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364319028190-8ft77q7ioj7ul1b06bdus2gm08qc1hmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHLYkM_r5VVOmGMYKeNR4GUIVaMnK7io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364319028190-8ft77q7ioj7ul1b06bdus2gm08qc1hmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364319028190:android:a73e5bf57715627d1fa34f",
+        "android_client_info": {
+          "package_name": "com.example.nurolstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364319028190-8ft77q7ioj7ul1b06bdus2gm08qc1hmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHLYkM_r5VVOmGMYKeNR4GUIVaMnK7io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364319028190-8ft77q7ioj7ul1b06bdus2gm08qc1hmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
